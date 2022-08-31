@@ -18,5 +18,5 @@ bool isPalindrome(int x)
         reverse = (reverse * 10) + num % 10;
         num = num / 10;
     }
-    return x == reverse;//if both are same then a true will be returned else false
+    return x == reverse; // if both are same then a true will be returned else false
 }
