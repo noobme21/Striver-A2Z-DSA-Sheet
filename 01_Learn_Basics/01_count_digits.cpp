@@ -1,5 +1,7 @@
 /*
-    link ::    https://practice.geeksforgeeks.org/problems/count-digits5716/1
+    Given a number N. Count the number of digits in N which evenly divides N.
+
+    You can get the Question [here](https://practice.geeksforgeeks.org/problems/count-digits5716/1).
 */
 
 int evenlyDivides(int N)
