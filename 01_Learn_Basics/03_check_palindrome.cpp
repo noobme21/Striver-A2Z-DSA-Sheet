@@ -19,4 +19,4 @@ bool isPalindrome(int x)
         num = num / 10;
     }
     return x == reverse;//if both are same then a true will be returned else false
-}gg
+}
