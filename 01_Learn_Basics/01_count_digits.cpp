@@ -1,5 +1,5 @@
 /*
-    Given a number N. Count the number of digits in N which evenly divides N.
+    #Given a number N. Count the number of digits in N which evenly divides N.
 
     Question link :: https://practice.geeksforgeeks.org/problems/count-digits5716/1
 
