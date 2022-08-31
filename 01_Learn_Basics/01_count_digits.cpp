@@ -23,5 +23,5 @@ int evenlyDivides(int N)
         }
         copy = copy / 10;
     }
-    return count;
+    return count ;
 }
