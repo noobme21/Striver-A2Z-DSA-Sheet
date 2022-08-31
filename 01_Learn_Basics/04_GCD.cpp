@@ -1,5 +1,5 @@
 /*
-        #LCM and HCF
+        #GCD or HCF
 
         GfG :: https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 
@@ -23,10 +23,6 @@ int gcd(int a, int b)
     return __gcd(a,b); // GCD of two numbers
 }
 
-int LCM (int a, int b)
-{
-    return lcm(a,b); // LCM of two numbers
-}
 
 // TC : O(logn)
 // SC : O(1)
