@@ -1,5 +1,5 @@
 /*
-    #Finding Factorial using Recursion
+    #Valid Palindrome
 
     GfG :: https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
     Leetcode 125 :: https://leetcode.com/problems/valid-palindrome/
