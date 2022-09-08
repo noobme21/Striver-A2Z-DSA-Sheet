@@ -2,9 +2,9 @@
     # Frequency of the Most Frequent Element
 
     Leetcode 1838 :: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+    
 
 */
-
 class Solution
 {
 public:
